@@ -11,9 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MobileComputing">
 
-        /* TODO: PROVIDE GOOGLE MAPS API KEY HERE */
+        /* TODO: PROVIDE GOOGLE MAPS API KEY */
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="" />
+            android:value="API KEY HERE" />
 
         <activity
             android:name=".ui.MainActivity"
